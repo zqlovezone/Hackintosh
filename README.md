@@ -186,6 +186,7 @@
 | ACER-ASPIRE-C24-865      | [链接](https://github.com/Sevendaye/ACER-ASPIRE-C24-865-Clover) |                                                              |                             |
 | ACER Travelmate P248     | [链接](https://github.com/jamesciq/Acer-Travelmate-P248-hackintosh-EFI) |                                                              |                             |
 | Acer P258-MG             | [链接](https://github.com/lgs3137/ACER_P258_MG-macOS)        |                                                              |                             |
+|Acer TX520-G2-MG          |[link](https://github.com/zqlovezone/ACER-TX520-Hackintosh-Opencore)  |    |    |
 
 ### Asus 华硕
 
