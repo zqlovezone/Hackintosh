@@ -34,6 +34,7 @@
 | Acer VN7-793g          | [link](https://github.com/cedric-bour/Acer-VN7-793g-Hackintosh) |                                                              |                             |
 | Acer-K50-10-525V        | [link](https://github.com/mingslife/Acer-K50-10-525V-Hackintosh) |                                                              |                             |
 |Acer P258-MG          |[link](https://github.com/lgs3137/ACER_P258_MG-macOS)  |    |    |
+|Acer TX520-G2-MG          |[link](https://github.com/zqlovezone/ACER-TX520-Hackintosh-Opencore)  |    |    |
 
 #### Asus 华硕
 
